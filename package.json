@@ -1,0 +1,28 @@
+{
+  "name": "janus",
+  "version": "1.0.0",
+  "description": "A changelog management tool",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CrypticSafe5/janus.git"
+  },
+  "keywords": [
+    "changelog",
+    "change",
+    "log",
+    "history"
+  ],
+  "author": "CrypticSafe5",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CrypticSafe5/janus/issues"
+  },
+  "homepage": "https://github.com/CrypticSafe5/janus#readme",
+  "dependencies": {
+    "uuid": "^8.3.2"
+  }
+}
